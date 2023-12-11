@@ -629,3 +629,28 @@ height: 300px;
   font-size: 24px;
   color:#fff6e5 ;
 }
+
+@media (max-height: 900px) 
+{
+        
+    .class-curved
+{
+    width: inherit;
+    height: inherit;
+    
+   
+    
+    
+    
+} 
+.curved1
+{
+    width: inherit;
+    height: inherit;
+   
+    
+    
+    
+} 
+
+}
